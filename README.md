@@ -29,4 +29,4 @@ Final project using multiple linear regression to analyze and predict housing pr
 ## To Run
 
 ```bash
-python multiple linear regressio.py
+python multiple linear regression.py
