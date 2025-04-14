@@ -18,7 +18,7 @@ Final project using multiple linear regression to analyze and predict housing pr
 - `Final Structured Dataset of Housing Listings.xlsx` — cleaned dataset
 - `report_summary.pdf` — final analysis/PPT
 
-## 📊 Result Summary
+## Result Summary
 
 | Metric | Value     |
 |--------|-----------|
