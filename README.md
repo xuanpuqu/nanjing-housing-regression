@@ -1,10 +1,10 @@
-# nanjing-housing-regression
+# Nanjing-housing-regression
 Final project for housing price prediction using regression
-# Nanjing Housing Price Prediction
+# 😊Nanjing Housing Price Prediction
 
 Final project using multiple linear regression to analyze and predict housing prices in Qixia District, Nanjing.
 
-## Project Highlights
+## 🏁Project Highlights
 
 - Web-scraped data from “fangtianxia”
 - Cleaned, structured with Moonshot AI
@@ -12,13 +12,13 @@ Final project using multiple linear regression to analyze and predict housing pr
 - R² ≈ 0.67, MAE ≈ 74w, p-value filtering
 - Future plan: XGBoost, log(price), interactive map
 
-## Files
+## 📁Files
 
 - `multiple linear regression.py` — main regression model
 - `Final Structured Dataset of Housing Listings.xlsx` — cleaned dataset
 - `report_summary.pdf` — final analysis/PPT
 
-## Result Summary
+## 🙆Result Summary
 
 | Metric | Value     |
 |--------|-----------|
@@ -26,7 +26,7 @@ Final project using multiple linear regression to analyze and predict housing pr
 | MAE    | ¥741,125  |
 | MSE    | 1.38e+12  |
 
-## To Run
+## 🏃To Run
 
 ```bash
 python multiple linear regression.py
