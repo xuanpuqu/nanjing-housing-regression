@@ -15,8 +15,7 @@ Final project using multiple linear regression to analyze and predict housing pr
 ## 📁Files
 
 - `multiple linear regression.py` — main regression model
-- `Final Structured Dataset of Housing Listings.xlsx` — cleaned dataset
-- `report_summary.pdf` — final analysis/PPT
+- `final dta cleaning.xlsx` — cleaned dataset
 
 ## 🙆Result Summary
 
